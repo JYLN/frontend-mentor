@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-using-tailwindcss-YUdnkSPsxJ)
 - Live Site URL: [Netlify](https://jyln-blog-preview-card-solution.netlify.app/)
 
 ## My process
