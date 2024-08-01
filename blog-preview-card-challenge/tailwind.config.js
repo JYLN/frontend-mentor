@@ -10,12 +10,6 @@ module.exports = {
       },
       white: "#FFFFFF",
     },
-    spacing: {
-      50: "4px",
-      100: "8px",
-      150: "12px",
-      200: "24px",
-    },
     extend: {
       fontFamily: {
         figtree: ["Figtree", "sans-serif"],

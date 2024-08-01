@@ -12,5 +12,56 @@
     <title>Frontend Mentor | Blog preview card</title>
     <link rel="stylesheet" href="./index.css" type="text/css" />
   </head>
-  <body></body>
+  <body
+    class="sm:px-0 px-6 grid min-h-screen place-content-center bg-yellow font-figtree"
+  >
+    <main>
+      <article
+        class="gap-6 p-6 flex max-w-sm flex-col rounded-[1.25rem] border border-gray-950 bg-white shadow-[8px_8px_#000]"
+      >
+        <img
+          src="./assets/images/illustration-article.svg"
+          alt="Blog Preview Header Image"
+          class="rounded-[.625rem]"
+        />
+        <!-- CARD CONTENT -->
+        <div class="gap-4 flex flex-col">
+          <!-- POST CATEGORY -->
+          <div
+            class="px-3 py-1 w-min rounded bg-yellow text-xs/normal font-extrabold text-gray-950 sm:text-sm/normal"
+          >
+            Learning
+          </div>
+          <!-- POST PUBLISH DATE -->
+          <p class="text-xs/normal font-medium text-gray-950 sm:text-sm/normal">
+            Published 21 Dec 2023
+          </p>
+          <!-- POST TITLE -->
+          <a
+            href="#"
+            class="text-xl/normal font-extrabold text-gray-950 transition-colors hover:text-yellow sm:text-2xl/normal"
+          >
+            <h1>HTML &amp; CSS Foundations</h1>
+          </a>
+          <p
+            class="text-sm/normal font-medium text-gray-500 sm:text-base/normal"
+          >
+            These languages are the backbone of every website, defining
+            struture, content, and presentation.
+          </p>
+        </div>
+        <!-- CARD FOOTER -->
+        <footer class="gap-3 flex items-center">
+          <img
+            class="max-w-8 h-auto"
+            src="./assets/images/image-avatar.webp"
+            alt="Author Avatar"
+          />
+          <h2 class="text-sm/normal font-extrabold text-gray-950">
+            Greg Hooper
+          </h2>
+        </footer>
+      </article>
+    </main>
+  </body>
 </html>
