@@ -31,3 +31,6 @@
 - [x] [Article Preview Component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
   - Repo: [GitHub](https://github.com/JYLN/article-preview-component-challenge)
   - Live Demo: [Vercel](https://jyln-article-preview-component-challenge.vercel.app/)
+- [x] [Newsletting Sign-up Form with Success Message](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv)
+  - Repo: [GitHub](https://github.com/JYLN/newsletter-signup-challenge)
+  - Live Demo: [Vercel](https://jyln-newsletter-signup-challenge.vercel.app/)
