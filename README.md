@@ -2,9 +2,9 @@
 
 [Frontend Mentor](https://frontendmentor.io) is an online platform that provides challenges to help developers practice building websites/web components in a realistic workflow. In this repo, I am providing my solutions to the challenges provided by the platform.
 
-## Completed Projects
+## Completed Challenges
 
-| Project Name                                                                                                                                    | Repo                                                                  | Live Demo                                                              | Difficulty                    | Date Completed |
+| Challenge Name                                                                                                                                  | Repo                                                                  | Live Demo                                                              | Difficulty                    | Date Completed |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------- | -------------- |
 | [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)                                                       | [GitHub](https://github.com/JYLN/qr-component-challenge)              | [Vercel](https://jyln-qr-component-challenge.vercel.app/)              | ![Newbie badge][newbie_badge] | 07/31/2024     |
 | [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)                                                      | [GitHub](https://github.com/JYLN/blog-preview-card-challenge)         | [Vercel](https://jyln-blog-preview-card-challenge.vercel.app/)         | ![Newbie badge][newbie_badge] | 08/01/2024     |
