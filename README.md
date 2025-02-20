@@ -16,6 +16,7 @@
 | [Meet Landing Page](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR)                                                       | [GitHub](https://github.com/JYLN/meet-landing-page-challenge)         | [Vercel](https://jyln-meet-landing-page-challenge.vercel.app/)         | ![Newbie badge][newbie_badge] | 11/10/2024     |
 | [Article Preview Component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)                                       | [GitHub](https://github.com/JYLN/article-preview-component-challenge) | [Vercel](https://jyln-article-preview-component-challenge.vercel.app/) | ![Newbie badge][newbie_badge] | 11/12/2024     |
 | [Newsletter Sign-up Form with Success Message](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) | [GitHub](https://github.com/JYLN/newsletter-signup-challenge)         | [Vercel](https://jyln-newsletter-signup-challenge.vercel.app/)         | ![Junior badge][junior_badge] | 11/13/2024     |
+| [Time Tracking Dashboard](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)                                           | [GitHub](https://github.com/JYLN/time-tracking-dashboard-challenge)   | [Vercel](https://jyln-time-tracking-dashboard-challenge.vercel.app/)   | ![Junior badge][junior_badge] | 11/15/2024     |
 
 <!-- Image Quickrefernce -->
 
